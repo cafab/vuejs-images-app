@@ -1,5 +1,9 @@
 # images
 
+## Before Start
+
+Add your personal Client-ID from Imgur to the imgur.js file in the src/api directory
+
 ## Project setup
 ```
 npm install
