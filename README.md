@@ -1,4 +1,5 @@
-# images
+# Images app
+Shows all your personal images from [imgurs API](https://apidocs.imgur.com/) in this web app. 
 
 ## Before Start
 
